@@ -1,4 +1,8 @@
-- Welcome to my Aspiring Data Analyst Portfolio!
+<img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="200" allow="autoplay">
+<h1 align="center">Hi 👋, I'm Yash Jagdale.</h1>
+<h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">- 
+Welcome to my Aspiring Data Analyst Portfolio!
 
 As an enthusiastic newcomer to the field of data analytics, I am eager to showcase my skills and passion for transforming raw data into meaningful insights. While I may be a fresher, my foundational knowledge and hands-on experience with key tools and technologies make me a promising candidate for entry-level data analyst roles.
 
