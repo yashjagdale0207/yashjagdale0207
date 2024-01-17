@@ -14,6 +14,11 @@ While I may not have extensive industry experience, I bring a fresh perspective,
 
 Thank you for considering my portfolio. I am excited about the opportunity to discuss how my enthusiasm, coupled with a commitment to growth, aligns with the goals of your team. I look forward to the possibility of connecting with you soon.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/yash-jagdale-562026257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
+</p>
+
 <!---
 yashjagdale0207/yashjagdale0207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
